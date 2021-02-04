@@ -1,0 +1,6 @@
+.logs
+data/
+!data/frames/.hidden
+node_modules/
+tmp/
+.idea/
